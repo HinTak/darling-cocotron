@@ -25,3 +25,8 @@ make clean
 make
 sudo make install
 
+---
+On Fedora 32:
+
+dnf install gcc-objc.x86_64  gcc-objc++.x86_64 libobjc.x86_64
+dnf install libblocksruntime-devel.x86_64 libblocksruntime.x86_64
