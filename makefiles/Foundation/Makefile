@@ -38,6 +38,7 @@ provide_src_files = ${shell (\
 			ln -s ../../../Foundation/NSCharacterSet/bitmapRepresentation.h .;\
 			ln -s ../../../CoreFoundation/CoreFoundation.h .;\
 			ln -s ../../../CoreServices/CoreServices.h .;\
+			ln -s ../../../objc .;\
 			ln -s . Foundation;\
 			ln -s . CoreFoundation;\
 			ln -s . CoreServices;\
